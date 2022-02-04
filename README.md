@@ -1,5 +1,6 @@
 - Estudante de Ciência da Computação na Universidade Municipal de São Caetano do Sul.
 - Atualmente estudando Python, C e JavaScript.
+- Procuro um estágio na área de TI.
 
 <!---
 gimenezt/gimenezt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

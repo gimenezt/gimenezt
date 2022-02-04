@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @gimenezt
-- 👀 I’m interested in maths
-- 🌱 I’m currently learning javascript and c++
+Atualmente estudando Python, C e JavaScript.
 
 <!---
 gimenezt/gimenezt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

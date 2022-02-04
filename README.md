@@ -1,3 +1,4 @@
+Estudante de Ciência da Computação na Universidade Municipal de São Caetano do Sul.
 Atualmente estudando Python, C e JavaScript.
 
 <!---

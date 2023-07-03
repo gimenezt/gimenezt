@@ -1,2 +1,2 @@
 - Graduanda em Ciência da Computação
-- - Estagiária de Automação e Controle
+- Estagiária de Automação e Controle

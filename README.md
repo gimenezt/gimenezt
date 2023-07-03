@@ -5,6 +5,7 @@ Trabalho com automação e desenvolvimento.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-gimenez-teixeira-19315a22a/?trk=public_profile_browsemap&originalSubdomain=br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gimenezt_/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/gimenezt)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gimenezt/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimenezt&layout=compact)
 

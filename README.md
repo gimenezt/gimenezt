@@ -1,5 +1,5 @@
-### Olá! Eu sou a Lilian Gimenez 👋
-Trabalho com análise de dados, automação e desenvolvimento.
+### Oi! Eu sou Lilian 👋
+Trabalho com análise de dados, automação e desenvolvimento web.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-gimenez-teixeira-19315a22a/?trk=public_profile_browsemap&originalSubdomain=br)

@@ -7,8 +7,6 @@ Trabalho engenharia de software no Itaú.
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/gimenezt)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gimenezt/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimenezt&layout=compact)
-
 ## Sobre mim
 Sou apaixonada pelo potencial bem que a tecnologia pode proporcionar às pessoas. Trabalho pra que isso se torne cada vez mais veementemente no nosso dia a dia.
 

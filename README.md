@@ -1,4 +1,4 @@
-### Oi! Eu sou Lilian 👋
+### Oi! Eu sou Lilian, tenho 42 anos 👋
 Trabalho engenharia de software.
 <br>
 
